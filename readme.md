@@ -39,6 +39,11 @@ Installing:
 
 Environment:
  - <a href="https://laradock.io">Laradock IO</a>
+ 
+Packages:
+ - <a href="http://andersonandra.de/l5-repository">l5-repository</a>
+ - <a href="https://datatables.net">DataTables</a>
+ - <a href="https://www.jqueryscript.net/demo/Clean-jQuery-Date-Time-Picker-Plugin-datetimepicker">jQuery DatetimePicker</a>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
