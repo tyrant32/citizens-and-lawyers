@@ -1,0 +1,18 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+// Variables
+@import "variables";
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+// Import date picker css
+@import "~jquery-datetimepicker/build/jquery.datetimepicker.min.css";
+
+#appointments-list form, #appointments-list form input {
+  display: inline;
+  margin: 5px;
+}
+
+#appointments-list a.appointment_edit {
+  margin-left: 5px;
+  margin-right: 5px;
+}
