@@ -36,6 +36,7 @@ Requirements:
 Installing:
  - composer install
  - npm install
+ - npm run prod
 
 Environment:
  - <a href="https://laradock.io">Laradock IO</a>
